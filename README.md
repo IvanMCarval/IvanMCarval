@@ -1,13 +1,13 @@
 ## Hi!! Sou Ivan! 🖐️
 
-<img align="right" alt="ivan-pic" height="200" style="padding-top: 100px;" src="https://user-images.githubusercontent.com/75397473/173668075-ff286ddc-134e-4119-801c-70edaba72a09.png"/>
+<img align="center" alt="ivan-pic" height="200" src="https://user-images.githubusercontent.com/75397473/173668075-ff286ddc-134e-4119-801c-70edaba72a09.png"/>
 
 - 🔭 Trabalho com Front-End...
 - 🌱 Estudo ReactJS ...
 
 <div style="display: flex;" >
   <a href="https://github.com/IvanMCarval">
-  <img style="padding-right: 10px;" height="150em" src="https://github-readme-stats.vercel.app/api?username=IvanMCarval&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IvanMCarval&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanMCarval&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
