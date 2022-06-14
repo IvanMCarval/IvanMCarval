@@ -1,12 +1,12 @@
-## Hi!! Sou Ivan! 🖐️
+## Hi!! Sou Ivan! 🖐️ <img align="right" alt="ivan-pic" height="300" style="padding-top: 50px;" src="https://user-images.githubusercontent.com/75397473/173668075-ff286ddc-134e-4119-801c-70edaba72a09.png"/>
 
 - 🔭 Trabalho com Front-End...
 - 🌱 Estudo ReactJS ...
 
 <div style="display: flex;" >
   <a href="https://github.com/IvanMCarval">
-  <img style="padding-right: 10px;" height="160em" src="https://github-readme-stats.vercel.app/api?username=IvanMCarval&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanMCarval&layout=compact&langs_count=7&theme=dracula"/>
+  <img style="padding-right: 10px;" height="130em" src="https://github-readme-stats.vercel.app/api?username=IvanMCarval&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanMCarval&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
@@ -22,7 +22,9 @@
   <img align="center" alt="pop" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" />
 </div>
   
-## Onde me encontrar!
+##  
+
+### Onde me encontrar!
 <div> 
   <a href="https://discord.gg/Doctor_PIX#4087" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ivanmcarval@hotmail,com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
