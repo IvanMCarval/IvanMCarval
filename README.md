@@ -3,7 +3,8 @@
 - 🔭 Trabalho com Front-End...
 - 🌱 Estudo ReactJS ...
 
-<div style="display: flex;" >  
+<div style="display: flex;" >
+  <a href="https://github.com/IvanMCarval">
   <img style="padding-right: 10px;" height="150em" src="https://github-readme-stats.vercel.app/api?username=IvanMCarval&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanMCarval&layout=compact&langs_count=7&theme=dracula"/>
 </div>
