@@ -3,7 +3,7 @@
 - 🔭 Trabalho com Front-End...
 - 🌱 Estudo ReactJS ...
 
-<div align="center">
+<div style="display: inline_block">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanMCarval&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanMCarval&layout=compact&langs_count=7&theme=dracula"/>
